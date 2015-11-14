@@ -1,0 +1,14 @@
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\ImageLoader.csprojResolveAssemblyReference.cache
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\MainWindow.g.cs
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\App.g.cs
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\MainWindow.baml
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\ImageLoader.Properties.Resources.resources
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\ImageLoader.csproj.GenerateResource.Cache
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\bin\Debug\SimpleVideoPlayer.exe.config
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\bin\Debug\SimpleVideoPlayer.exe
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\bin\Debug\SimpleVideoPlayer.pdb
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\SimpleVideoPlayer_MarkupCompile.cache
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\SimpleVideoPlayer_MarkupCompile.lref
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\SimpleVideoPlayer.g.resources
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\SimpleVideoPlayer.exe
+C:\Cyborgpencil\AppDev\ImageLoader\ImageLoader\obj\Debug\SimpleVideoPlayer.pdb
